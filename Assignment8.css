@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.section_1 {
+  border: 5px solid black;
+  background-color: pink;
+  margin: 100px 300px 300px 300px;
+  border-radius: 25px 25px 25px 25px;
+}
+#img_1 {
+  border-radius: 50px 50px 50px 50px;
+  align-items: ;
+}
+#h1_a {
+  text-align: center;
+}
+#h5_a {
+  text-align: center;
+}
+.section_2 {
+  background-color: pink;
+  border-radius: 25px 25px 25px 25px;
+  margin: 100px 300px 300px 300px;
+  border: 5px solid black;
+  color: #000;
+}
+.section_3 {
+  background-color: greenyellow;
+  border-radius: 25px 25px 25px 25px;
+  margin: 100px 300px 300px 300px;
+  border: 5px solid black;
+  color: #000;
+}
+.section_4 {
+  background-color: rgb(231, 231, 235);
+  border-radius: 25px 25px 25px 25px;
+  margin: 100px 300px 300px 300px;
+  border: 5px solid black;
+  color: #000;
+}
+.section_5 {
+  background-color: beige;
+  border-radius: 25px 25px 25px 25px;
+  margin: 100px 300px 300px 300px;
+  border: 5px solid black;
+  color: #000;
+}
+.section_6 {
+  background-color: rgb(223, 145, 145);
+  border-radius: 25px 25px 25px 25px;
+  margin: 100px 300px 300px 300px;
+  border: 5px solid black;
+  color: #000;
+}
+.section_7 {
+  background-color: rgb(238, 238, 94);
+  border-radius: 25px 25px 25px 25px;
+  margin: 100px 300px 300px 300px;
+  border: 5px solid black;
+  color: #000;
+}
+.section_8 {
+  background-color: gold;
+  border-radius: 25px 25px 25px 25px;
+  margin: 100px 300px 300px 300px;
+  border: 5px solid black;
+  color: #000;
+}
